@@ -13,3 +13,5 @@
 ***[Click here to go to the project code](WDL_Hackathon.ipynb)***
 
 ---
+
+***Disclaimer: After running the dashboard apps, make sure you stop the notebook from running for the execution of code to continue***
