@@ -8,4 +8,10 @@
 
 ---
 
-## PROJECT TITLE: ANALYSIS OF YOUTH EMPLOYMENT IN RURAL AND URBAN AREAS IN TERMS OF SEX AND ECONOMIC ACTIVITY
+**ANALYSIS OF YOUTH EMPLOYMENT IN RURAL AND URBAN AREAS IN TERMS OF SEX AND ECONOMIC ACTIVITY**
+
+***[Click here to go to the project code](WDL_Hackathon.ipynb)***
+
+---
+
+***Disclaimer: After running the dashboard apps, make sure you stop the notebook from running for the execution of code to continue***
