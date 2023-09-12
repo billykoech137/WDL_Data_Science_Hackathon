@@ -23,10 +23,3 @@
 
 + ***[Data Visualization Dashboard](https://wdl-hackathon-data-dashboard.onrender.com)***
 + ***[Data Modeling Dashboard](https://wdl-hackathon-model-dashboard.onrender.com)***
-
-![alt text](Slide1.PNG)
-![alt text](Slide2.PNG)
-![alt text](Slide3.PNG)
-![alt text](Slide4.PNG)
-![alt text](Slide5.PNG)
-![alt text](Slide6.PNG)
